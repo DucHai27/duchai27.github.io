@@ -51,5 +51,5 @@ Trang web này là không gian cá nhân nơi mình lưu trữ các bài **Write
 
 ## 📫 Kết nối với mình
 
-- **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **Email:** [your_email@gmail.com](mailto:your_email@gmail.com)
+- **GitHub:** [github.com/duchai27](https://github.com/duchai27)
+- **Email:** [nguyenduchaiwork88@gmail.com](mailto:nguyenduchaiwork88@gmail.com)
