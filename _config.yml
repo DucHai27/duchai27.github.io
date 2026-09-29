@@ -5,30 +5,30 @@ timezone: Asia/Ho_Chi_Minh
 
 # Thông tin cá nhân hiển thị ở Sidebar trái
 title: Nguyễn Đức Hải
-tagline: IT & AI Student | Cloud, DevOps & Cybersecurity Enthusiast
+tagline: IT | Cloud, DevOps
 description: >-
   Blog cá nhân và Portfolio của Nguyễn Đức Hải - Nơi chia sẻ kiến thức về
-  Cloud Engineering, DevOps, Cybersecurity, Thuật toán và các dự án công nghệ.
+  Cloud Engineering, DevOps, Thuật toán và các dự án công nghệ.
 
 # Đường dẫn chính của trang web (Thay bằng username GitHub của cậu)
-url: "https://YOUR_GITHUB_USERNAME.github.io"
+url: "https://duchai27.github.io"
 baseurl: ""
 
 github:
-  username: YOUR_GITHUB_USERNAME
+  username: duchai27
 
 social:
   name: Nguyễn Đức Hải
-  email: your_email@gmail.com # Điền email của cậu
+  email: hainguyenduc27082005@gmail.com # Điền email của cậu
   links:
-    - https://github.com/YOUR_GITHUB_USERNAME
-    - https://www.linkedin.com/in/your-profile
+    - https://github.com/duchai27
+    - https://www.linkedin.com/in/hai-nguyen-duc-221189404/
 
 # Giao diện: Cố định Dark Mode giống trang mẫu (hoặc xóa dòng này nếu muốn có nút bật/tắt Sáng-Tối)
 theme_mode: dark
 
 # Ảnh đại diện (Có thể dùng link ảnh trực tiếp từ GitHub hoặc để ảnh trong thư mục /assets/img/)
-avatar: "https://github.com/YOUR_GITHUB_USERNAME.png"
+avatar: "https://github.com/duchai27.png"
 
 # Bật sẵn Mục lục (TOC), Công thức toán và Sơ đồ
 toc: true
